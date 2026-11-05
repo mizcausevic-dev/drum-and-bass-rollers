@@ -1,0 +1,26 @@
+{
+  "title": "Drum and Bass Rollers",
+  "study": "dr01",
+  "bpm": 174,
+  "source_audio": "preview/drum-and-bass-rollers-simple-synth-preview.mp3",
+  "source_audio_sha256": "cde2c2a223958c7fb8c956fcd669ecb916e3d9dc643b0a002a510d67a4d3fbf7",
+  "source_midi": "midi/dr01-red-track/dr01-red-track-combined.mid",
+  "source_midi_sha256": "c79dc64d9f5a33067fea89fa7fff74fa06463f49e17b9c7f5cdcb70b61bd00c6",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "a1c554a5ce40702dec967b6ade07dc78570e32573700f8dd819f2c30fa7eebc8",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "29c890cdac0b4beb9d0b005a4d21b570ff1affea73f2a81fec34105d5b910fc6",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "4a2d1e9cfa4c3f0a93b3f20bc65e21dec5237beea430c5ef3c6907e5dbe44498",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
