@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/drum-and-bass-rollers-midi.zip",
-      "bytes": 31842,
-      "sha256": "0e1fb1575d4b9d2008b0fc89d1b9637f3813818a1be46e86ad9c79c916cf8456"
+      "bytes": 32829,
+      "sha256": "c94ec3ff616f4c58c7ebd122d8209521abc574517214289ee368335ae8a80ff9"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9785,
-      "sha256": "3fb4a9898032a00e273cb2e5e9d185f149d72c2540e16019fbb0bd333d655930"
+      "bytes": 9975,
+      "sha256": "55184e5c89ecda91c1433e431c85b8c0ef76809e7fec254b873e7075854fbad5"
     },
     {
       "path": "midi/dr01-red-track/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "5f542951361cb18664c9a36b290f2e4c46039c6eca42ba35d9f54b85e947797b"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/drum-and-bass-rollers-simple-synth-preview.mp3",
       "bytes": 1072736,
       "sha256": "cde2c2a223958c7fb8c956fcd669ecb916e3d9dc643b0a002a510d67a4d3fbf7"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4052,
-      "sha256": "68c7e47f7451c28038c33fe6cafdc77e43cd7ad1dcf08763358daeae1acd9db3"
+      "bytes": 4167,
+      "sha256": "77f8044d6b69ab8e28cdc39513b3fc5654fe52453adbf21ce8db729649535c45"
     },
     {
       "path": "REVISION.md",
